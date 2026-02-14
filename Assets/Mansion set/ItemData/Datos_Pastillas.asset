@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: db86b94c97e099a448b13f8208e5d589, type: 3}
+  m_Name: Datos_Pastillas
+  m_EditorClassIdentifier: 
+  itemName: Pastillas
+  icon: {fileID: 21300000, guid: cdc551832d9f3f541871e9ffaec9665b, type: 3}
+  tipo: 6
+  prefabModelo3D: {fileID: 1985338178271116, guid: 092b610b60f79e54fa44acc5e8c5884a,
+    type: 3}
+  modeloFPS: {fileID: 1985338178271116, guid: 092b610b60f79e54fa44acc5e8c5884a, type: 3}
+  posicionFPS: {x: 0, y: 0.1, z: 0}
+  rotacionFPS: {x: 0, y: 0, z: 0}
+  contenidoNota: 
